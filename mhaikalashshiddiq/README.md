@@ -6,19 +6,4 @@
 - Interest:
     - Optical Character Recognition
 
-## Assignment Structure
-This repository contains two main folders:
-1. `cli/` - Contains a CLI-based calculator application
-2. `app/` - Contains the Flutter application template
-
-### CLI Calculator Features
-- Basic arithmetic operations:
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (*)
-  - Division (/)
-  - Exponent (^)
-- Input validation
-- Error handling
-
 Well that's all from me. Thanks
